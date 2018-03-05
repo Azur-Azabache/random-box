@@ -9,4 +9,4 @@ Creamos una caja con REACT dotada de un color de relleno aleatorio y un texto co
 - HTML5
 
 ### Ejemplo:
-<center>![image](assets/images/box.png)
+![image](assets/images/box.png)
